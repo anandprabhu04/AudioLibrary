@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioLibrary</string>
+    <string name="play_audio">Play Audio</string>
+</resources>
